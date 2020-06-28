@@ -1,4 +1,1 @@
-#sample git demo
-
-x=int(input("enter a number"))
-print(x)
+this is an example of git clone
